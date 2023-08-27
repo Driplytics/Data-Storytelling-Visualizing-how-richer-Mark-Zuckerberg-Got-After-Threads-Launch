@@ -31,6 +31,8 @@ Market Value of Zuck's Stake = Current Market Capitalization * Ownership Percent
 Market Value of Zuck's Stake= $734.64 * 13.6%
 This pegs Zuck's net worth at $100.06 (as of Aug 27th, '23)
 
+![](https://github.com/Driplytics/Data-Storytelling-Visualizing-how-richer-Mark-Zuckerberg-Got-After-Threads-Launch/blob/main/networth%20and%20market%20Cap%20relationship.webp)
+
 Think of Meta's market capitalization as the captain of a financial ship, steering the course that guides Zuck's net worth. So, when Meta's market capitalization sets sail for new horizons, you can bet Zuck's net worth is right there riding the waves of change! That's how big of an influence Meta's market Capitalization has on Zuck's Networth.
 
 **_"If it's good for Meta, it's good for Zuck's net worth too!"_**
