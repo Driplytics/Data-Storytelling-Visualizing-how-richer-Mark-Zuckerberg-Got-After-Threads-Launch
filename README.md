@@ -9,6 +9,7 @@ Let's get started!
 
 ## What's Zuck's stake in META?
 ![](https://raw.githubusercontent.com/Driplytics/Data-Storytelling-Visualizing-how-richer-Mark-Zuckerberg-Got-After-Threads-Launch/main/Zuck's%20Stake.webp)
+
 Let's break down the numbers. In Meta's recent 10-Q filing from July 10th, they reported having a total of 2,573,161,373 outstanding shares. These are split into two categories: Class A shares, which make up 2,222,582,542 shares, and Class B shares, which add up to 350,578,831 shares.
 Looking back at an earlier Proxy filing in April '23, we learned that Mark Zuckerberg, Meta's key figure, owns 831,706 Class A shares and a significant 349,745,790 Class B shares, totaling 350,577,496 shares in his name.
 When we compare these figures, it becomes clear that Mark Zuckerberg's ownership stake in Meta accounts for around 13.6% of the company. This substantial ownership makes him the largest shareholder in Meta, emphasizing his pivotal role and influence within the company's operations.
@@ -19,6 +20,8 @@ While the rise in Meta's valuation cannot be solely attributed to the Threads la
 This upward momentum can be attributed to the renewed interest of investors in the technology sector. As of August 27th, '23, Meta's share price stands at $285.50, reflecting this heightened investor confidence in the company.
 
 ## Meta's Market Cap Influence
+![](https://github.com/Driplytics/Data-Storytelling-Visualizing-how-richer-Mark-Zuckerberg-Got-After-Threads-Launch/blob/main/Zuck's%20Networth%20history.webp)
+
 This influence trickles down to Zuck's net worth, considering he's the largest shareholder in Meta.
 ### How did we calculate Mark Zuckerberg's net worth?
 We started by assuming that most of Zuckerberg's wealth is tied to Meta; even though he owns other assets, most of his wealth is there.
